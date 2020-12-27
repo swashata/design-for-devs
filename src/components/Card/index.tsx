@@ -30,6 +30,11 @@ const CardContainer = styled.div`
 	.card__content {
 		font-size: ${props => `${props.theme.fz.base}px`};
 		padding: ${props => `${props.theme.gutter}px ${props.theme.gutter}px`};
+
+		img {
+			max-width: 100%;
+			height: auto;
+		}
 	}
 `;
 
