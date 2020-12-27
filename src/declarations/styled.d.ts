@@ -39,13 +39,10 @@ declare module 'styled-components' {
 		borderRadiusBase: number;
 		borderColorBase: string;
 		borderColorSplit: string;
+		boxShadowContent: string;
 		boxShadowBase: string;
-		boxShadowElevationOne: string;
 		boxShadowHover: string;
-		boxShadowBottom: string;
 		boxShadowFocus: string;
-		boxShadowControlFocus: string;
-		boxShadowNoneFocus: string;
 		disabledColor: string;
 		disabledBackgroundColor: string;
 		gutter: number;

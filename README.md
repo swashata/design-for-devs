@@ -12,6 +12,9 @@ yarn add modern-normalize
 
 ### DESIGN THE BUTTON FIRST
 
+// PRIMARY COLOR // TEXT COLOR // SPACING // BUTTON SHAPE (FLAT, 3D, ROUNDED) //
+TYPOGRAPHY - TYPEFACE & SIZE
+
 Almost always we are going to need a button. While it may sound trivial, it
 solves a lot of design decisions beforehand.
 
@@ -100,6 +103,7 @@ For the stuff we design here, we use styled-components.
   understand how realistic is your design w.r.t your current skill.
 - It is perfectly okay to use CSS frameworks or components library, but don't
   restrict yourself.
+- Use some className conventions like getBem.
 
 ### RESOURCES
 
